@@ -1,2 +1,2 @@
 # BotonDobleForm.html
-Un Formulario en HTML con un botón de doble función..
+Un Formulario sencillo en HTML con dos botones Submit a dos acciones..
